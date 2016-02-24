@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GII-jm-eyk"; */
+"GII-jm-eyk.text" = "Label";
+
+/* Class = "UILabel"; text = "BusIt"; ObjectID = "Kfj-8I-3Bb"; */
+"Kfj-8I-3Bb.text" = "BusIt";
+
+/* Class = "UIButton"; normalTitle = "Weekdays"; ObjectID = "NaA-DQ-QI8"; */
+"NaA-DQ-QI8.normalTitle" = "Weekdays";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OKZ-BL-0Ch"; */
+"OKZ-BL-0Ch.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Weekends"; ObjectID = "V5j-7l-5jS"; */
+"V5j-7l-5jS.normalTitle" = "Weekends";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "YdA-HD-78b"; */
+"YdA-HD-78b.title" = "Map";
+
+/* Class = "UINavigationItem"; title = "Bus Schedule"; ObjectID = "Ymf-8D-pzh"; */
+"Ymf-8D-pzh.title" = "Bus Schedule";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "efz-Bb-kny"; */
+"efz-Bb-kny.text" = "Map";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gWv-wQ-DZa"; */
+"gWv-wQ-DZa.text" = "Label";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "gh3-5S-TMf"; */
+"gh3-5S-TMf.text" = "Events";
+
+/* Class = "UILabel"; text = "Bus Schedule"; ObjectID = "it0-69-JpN"; */
+"it0-69-JpN.text" = "Bus Schedule";
+
+/* Class = "UINavigationItem"; title = "Events"; ObjectID = "ovY-ud-e84"; */
+"ovY-ud-e84.title" = "Events";
+
+/* Class = "UILabel"; text = "an hour ago"; ObjectID = "qUB-Zz-3Cl"; */
+"qUB-Zz-3Cl.text" = "an hour ago";
+
+/* Class = "UILabel"; text = "There Are No Running Buses"; ObjectID = "trD-HC-yyN"; */
+"trD-HC-yyN.text" = "There Are No Running Buses";
+
+/* Class = "UIButton"; normalTitle = "Set Notification"; ObjectID = "v8S-6H-oDd"; */
+"v8S-6H-oDd.normalTitle" = "Set Notification";
