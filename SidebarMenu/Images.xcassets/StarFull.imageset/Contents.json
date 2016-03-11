@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "webkit-featured.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "Star_Filled.png",
       "scale" : "2x"
     },
     {
